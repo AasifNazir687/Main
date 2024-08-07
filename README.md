@@ -1,2 +1,3 @@
 # Main
-My first repository 
+My first repository
+created new file(names.txt)
